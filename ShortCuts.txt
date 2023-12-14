@@ -1,0 +1,4 @@
+Hier stehen ShortCuts wie bsp.
+
+strg + c	speichern
+strg + v	einfügen
